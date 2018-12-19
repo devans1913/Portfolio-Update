@@ -69,6 +69,7 @@ nav {
 
 
 .navigation__bar {
+    font-family: var(--font-body);
     height: 10vh;
     line-height: 10vh;
     width: 100%;
