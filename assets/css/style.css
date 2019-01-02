@@ -80,26 +80,6 @@ nav {
     text-align: left;
 }
 
-.fullFooter {
-    height: 5vh;
-    color: white;
-    line-height: 6vh;
-    margin-top: -5vh;
-    font-family: var(--font-body);
-    font-size: 1em;
-    background-color:  #2fb2c2;
-}
-
-.fullFooter.work {
-    background-color: #2fb2c2;
-}
-
-.footer {    
-    bottom: 0;
-    position: fixed;
-    width: 100%;
-}
-
 a {
     color:white;
     letter-spacing: 2px;
@@ -387,9 +367,6 @@ nav ul a:hover {
         font-size: .8em;
     }
 
-    .fullFooter{
-        background-color: #2fb2c2;
-    }
 
     .project__info {
         width: 100%;
@@ -525,9 +502,7 @@ ul:not(.browser-default)>li.nav {
     h1{
         display: none;
     }
-    footer {
-        display: none;
-    }
+    
     ul#mobile-demo {
         display: none;
     }
