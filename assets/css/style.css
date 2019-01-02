@@ -30,9 +30,11 @@ body.work {
 
 body.about {
     overflow-y: auto;
+    background-image: none;
 }
 
 .container {
+    
     width: 100%;
     max-width: 960px;
     margin: auto;
